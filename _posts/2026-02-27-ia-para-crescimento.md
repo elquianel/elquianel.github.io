@@ -2,6 +2,8 @@
 layout: post
 title: "IA para crescimento, não para terceirizar seu raciocínio"
 date: 2026-02-27
+author: Elquiane Lima
+tags: [Carreira, IA, Estudos, Produtividade]
 ---
 
 Desde que tenho consciência, um ditado sempre esteve presente na minha mente: *as pessoas podem tirar tudo de você, menos o conhecimento*. O impacto dessa frase na mentalidade de um adolescente que vê nos estudos uma possibilidade real de mudança é enorme. Foi o que aconteceu comigo. Lá por 2016, quando entrei no ensino médio, tive a oportunidade de estudar em uma instituição onde o ensino médio era integrado a um curso profissionalizante. Escolher técnico em informática foi quase uma seleção natural — eu me identifiquei antes mesmo de entender profundamente do que se tratava.
